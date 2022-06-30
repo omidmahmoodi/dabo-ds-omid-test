@@ -101,7 +101,7 @@ output/*
 # ignore common data formats
 *.png
 *.pickle
-*.ipynb
+#*.ipynb
 # *.csv
 *.tsv
 *.pdf
